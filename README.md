@@ -10,13 +10,13 @@ and has several preset gradients and zoom locations.
 
 ## Run
 
-To run, call the static void main(String[]) method in the MandelbrotDiver class.
+To run, call the `static void main(String[])` method in the `MandelbrotDiver` class.
 
 ## Details
 
-The MandelbrotDiver class is the main frame and contains the GUI components and handles events.
-The classes FractalModel and MandelbrotModel are responsible for generating the fractal images.
-The classes OptionState, StateStack, ColorPreset, ZoomPreset, and Gradient handle the input data from the user.
+The `MandelbrotDiver` class is the main frame and contains the GUI components and handles events.
+The classes `FractalModel` and `MandelbrotModel` are responsible for generating the fractal images.
+The classes `OptionState`, `StateStack`, `ColorPreset`, `ZoomPreset`, and `Gradient` handle the input data from the user.
 The rest of the classes are custom GUI components.
 
 ## Author
